@@ -1,0 +1,21 @@
+.App {
+  width:20%;
+  height:70%;
+  margin: auto;
+  margin-top: 30px;
+  text-align: left;
+background-color: aqua;
+}
+
+button {
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+marquee {
+  margin: auto;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "title": "Class",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Assignments",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Project work",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Movie",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Chai",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Reading",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Writing",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Riding",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Coding",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Practice-DSA",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 11
+    }
+  ]
+}
